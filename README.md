@@ -165,7 +165,7 @@ assetsPublicPath: '/vue-home/dist'
 
 > port: 8080 这个是让你改端口的
 
-#### vue-home/src/App.vue 
+#### vue-home/src/App.vue  
 ![vue-home/src/App.vue图](http://upload-images.jianshu.io/upload_images/5287253-711de34d2a7e98b0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
